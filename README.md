@@ -1,2 +1,1 @@
-# .github
-Public ReadMe
+# Device Research at Nokia Bell Labs
